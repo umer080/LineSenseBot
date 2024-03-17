@@ -8,7 +8,7 @@ The primary objective of LineSenseBot is to create a reliable and efficient solu
 
 ## Features
 
-- **Line Following:** LineSenseBot autonomously follows black or white lines with precision, making it suitable for various industrial applications.
+- **Line Following:** LineSenseBot autonomously follows black lines with precision, making it suitable for various industrial applications.
   
 - **Turn Handling:** The robot is equipped to effectively navigate turns along the designated path, ensuring smooth transitions without deviation.
 
